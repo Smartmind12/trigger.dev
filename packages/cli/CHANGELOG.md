@@ -1,5 +1,13 @@
 # create-trigger
 
+## 2.2.1
+
+### Patch Changes
+
+- 6769d6b4: Detects JSRuntime (Node/Deno at the moment). Adds basic Deno support
+- 9df93d07: Improve create-integration output. Use templates and shared configs.
+  - @trigger.dev/core@2.2.1
+
 ## 2.2.0
 
 ### Minor Changes
